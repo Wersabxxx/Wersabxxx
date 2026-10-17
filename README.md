@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**jhonjairochaverra2-glitch/jhonjairochaverra2-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy aprendiendo desarrollo web y creando proyectos sencillos para resolver necesidades cotidianas.
 
-Here are some ideas to get you started:
+## Proyecto destacado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Lista de compras](https://github.com/jhonjairochaverra2-glitch/lista-de-compras)** — una aplicación web pensada para usar desde el celular, guardar la lista en el dispositivo y funcionar sin conexión después de abrirla.
+
+## Tecnologías que estoy aprendiendo
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+## Mi objetivo
+
+Construir herramientas gratuitas, prácticas y fáciles de usar.
